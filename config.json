@@ -1,0 +1,13 @@
+{
+  "msgflux_class": "GreetingModule",
+  "msgflux_entrypoint": "modeling.py",
+  "msgflux_version": ">=0.1.0",
+  "sharing_mode": "class",
+  "metadata": {
+    "name": "Greeting Module",
+    "description": "A simple module that generates greetings",
+    "author": "vilsonrodrigues",
+    "tags": ["test", "greeting"],
+    "license": "MIT"
+  }
+}
