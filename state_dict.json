@@ -1,0 +1,9 @@
+{
+  "language": "pt",
+  "_greetings": {
+    "en": "Hello",
+    "pt": "Olá",
+    "es": "Hola",
+    "fr": "Bonjour"
+  }
+}
