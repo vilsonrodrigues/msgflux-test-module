@@ -1,6 +1,6 @@
 {
   "msgflux_class": "GreetingModule",
-  "msgflux_entrypoint": "modeling.py",
+  "msgflux_entrypoint": "modeling.py:greeter",
   "msgflux_version": ">=0.1.0a0",
   "sharing_mode": "instance",
   "metadata": {
